@@ -1,6 +1,14 @@
 .mainHead {
 
   color: #DADADA;
-  Height: 100px;
-  Width: 100px; 
+  Height: 200px;
+  Width: 200px;
+}
+#circle {
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
 }
